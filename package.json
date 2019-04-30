@@ -1,0 +1,20 @@
+{
+  "private": false,
+  "name": "ku-button",
+  "version": "1.0.6",
+  "description": "A niubility button",
+  "author": "sugars",
+  "license": "MIT",
+  "main": "./dist/index.umd.js",
+  "scripts": {
+    "dev": "vue serve KuButton.vue"
+  },
+  "files": [
+    "dist"
+  ],
+  "devDependencies": {
+    "bili": "^4.7.3",
+    "rollup-plugin-vue": "^5.0.0",
+    "vue-template-compiler": "^2.6.10"
+  }
+}
