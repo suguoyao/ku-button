@@ -1,9 +1,13 @@
 {
   "private": false,
   "name": "ku-button",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "A niubility button",
   "author": "sugars",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/suguoyao/ku-button.git"
+  },
   "license": "MIT",
   "main": "./dist/index.umd.js",
   "scripts": {
